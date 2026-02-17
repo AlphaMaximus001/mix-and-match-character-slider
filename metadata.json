@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Mix-and-Match Character Slider",
+  "description": "A 3D character slider scene using React Three Fiber with orthographic projection and separated body part groups.",
+  "requestFramePermissions": []
+}
